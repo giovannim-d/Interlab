@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\Tetris.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{9C6B23AC-4C4E-445D-BE3A-357646B272A1}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Tetris.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\TetrisEditor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{7F0B9C87-1808-46FA-90D3-5F4A81F5F675}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\Tetris">
+			<UniqueIdentifier>{85AE1B28-FDF3-430A-A870-A6FAF55055EE}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\Tetris\Tetris.Build.cs">
+			<Filter>Source\Tetris</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\Tetris\Tetris.cpp">
+			<Filter>Source\Tetris</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Tetris\Tetris.h">
+			<Filter>Source\Tetris</Filter>
+		</ClInclude >
+		<ClCompile Include="..\..\Source\Tetris\TetrisGameModeBase.cpp">
+			<Filter>Source\Tetris</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\Tetris\TetrisGameModeBase.h">
+			<Filter>Source\Tetris</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

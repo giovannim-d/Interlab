@@ -1,0 +1,3 @@
+C:\Users\Giovanni\Documents\Unreal Projects\Tetris\Source\Tetris\Tetris.Build.cs
+C:\Users\Giovanni\Documents\Unreal Projects\Tetris\Source\Tetris.Target.cs
+C:\Users\Giovanni\Documents\Unreal Projects\Tetris\Source\TetrisEditor.Target.cs
